@@ -1,9 +1,8 @@
-# Speech-Emotion-Recognition
+# Speech-Emotion-Recognition (SER)
 
-Speech Emotion Recognition (SER)
-Gourav Verma
-DSC-680 302, Spring-2021
-GitHub Portfolio URL - TBD
+Gourav Verma(\br)
+DSC-680 302, Spring-2021(br)
+GitHub Portfolio URL - TBD(br)
 
 Which Domain?
 Emotion recognition from speech signals has been research topic since many years. Among all the ways of communication speech signal is one of the fastest. Recognition of emotion is natura for humans but very difficult for machines. In this project I will be using Python programming language and relative packages to identify emotions of human speeches. 
