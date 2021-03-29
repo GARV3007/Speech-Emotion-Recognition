@@ -17,7 +17,7 @@ File naming convention<br />
 Each of the 1440 files has a unique filename. The filename consists of a 7-part numerical identifier (e.g., 03-01-06-01-02-01-12.wav). These identifiers define the stimulus characteristics:
 
 
-###Filename identifiers<br />
+### Filename identifiers<br />
 - Modality (01 = full-AV, 02 = video-only, 03 = audio-only).
 - Vocal channel (01 = speech, 02 = song).
 - Emotion (01 = neutral, 02 = calm, 03 = happy, 04 = sad, 05 = angry, 06 = fearful, 07 = disgust, 08 = surprised).
